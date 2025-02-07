@@ -5,14 +5,8 @@
 n = int(input("quanti numeri vuoi "))
 
 
-for i in range(0,n):
+for i in range(n): 
  
  if i%2==0:
-  
-  print(i)
-  i+=1
-
-else:
- 
- i+=1
+  print(i)  
   
