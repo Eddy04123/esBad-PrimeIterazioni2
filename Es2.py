@@ -13,10 +13,7 @@ if a<n:
    if m % a == 0 and m>=a:
    
     print(m)
-    m += 1
 
-   else:
-    m += 1
 
 else:
  
